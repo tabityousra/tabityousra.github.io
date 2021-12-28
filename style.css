@@ -1,0 +1,33 @@
+body{
+    background-color: darksalmon;
+}
+.table{
+    background-color: white;
+    width: 400px;
+    height: 1000px;
+
+}
+.list li{
+    list-style: none;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    font-size: 1.5rem;
+}
+a:hover{
+    font-size: 30px;
+    color: rgb(7, 7, 7);
+    background-color: rgb(197, 199, 202);
+}
+h1{
+    text-align: center;
+    color: black;
+}
+.row{
+    display: flex;
+    flex-direction: row;
+}
+.bienv{
+    margin-left: 300px;
+    margin-top: 200px;
+    font-size: 1.5rem;
+}
